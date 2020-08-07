@@ -1,2 +1,3 @@
-# bot
-A simpe bot that fights spam on Telegram location-based groups
+# SRE Paris Bot
+
+A simple bot that fights spam on Telegram location-based groups
