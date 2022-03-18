@@ -1,3 +1,5 @@
+ **Deprecation notice:** The code on this repo is related to an old behavior on Telegram and it's no longer needed. 
+ 
 ![SRE Paris Bot](https://raw.githubusercontent.com/sre-paris/bot/master/media/img/cover.png)
 
 A simple bot that fights spam on [Telegram location-based groups](https://telegram.org/blog/contacts-local-groups).
